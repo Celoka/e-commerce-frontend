@@ -1,0 +1,16 @@
+dist/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS Metadata
+.DS_Store
+
+# vscode
+.vscode/
+.editorconfig
+
